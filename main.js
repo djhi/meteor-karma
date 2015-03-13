@@ -107,7 +107,7 @@ KarmaInternals = {
     // TODO: Use sanjo:assets-path-resolver when available
     return path.join(
       KarmaInternals.getAppPath(),
-      '.meteor/local/build/programs/server/npm/sanjo:karma/node_modules/karma/bin/karma'
+      '.meteor/local/build/programs/server/npm/sanjo_karma/node_modules/karma/bin/karma'
     )
   }
 }
